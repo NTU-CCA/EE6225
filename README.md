@@ -6,7 +6,7 @@
 
 |#|Content|Lecture Note
 |:---:|:---:|:---:|
-|Part 1 by Prof. [Wenjian Cai](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWJCAI)|
+|PART I|
 |Lecture - 01|Fundamentals of Empirical Modeling and Identification|[[Note](https://github.com/NTU-CCA/EE6225/blob/master/Lecture%20Notes/Chapter%201%20idntfundm.pdf)] [[Slide](https://github.com/NTU-CCA/EE6225/blob/master/Slides/Chapter%201%20identifunda.ppt)]|
 |Lecture - 02|Parameter Identification from Step Response|[[Note](https://github.com/NTU-CCA/EE6225/blob/master/Lecture%20Notes/Chapter%202%20identfstep.pdf)] [[Slide](https://github.com/NTU-CCA/EE6225/blob/master/Slides/Chapter%202%20identistep.ppt)]|
 |Lecture - 03|Parameter Identification from Relay Test|[[Note](https://github.com/NTU-CCA/EE6225/blob/master/Lecture%20Notes/Chapter%203%20identifrelay.pdf)] [[Slide](https://github.com/NTU-CCA/EE6225/blob/master/Slides/Chapter%203%20identirelay.ppt)]|
