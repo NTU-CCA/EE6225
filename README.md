@@ -6,7 +6,7 @@
 
 |#|Content|Lecture Note
 |:---:|:---:|:---:|
-|Lecture - 01|Fundamentals of Empirical Modeling and Identification|[[Note](https://github.com/NTU-CCA/EE6225/blob/master/Lecture%20Notes/Chapter%201%20idntfundm.pdf)]|
+|Lecture - 01|Fundamentals of Empirical Modeling and Identification|[[Note](https://github.com/NTU-CCA/EE6225/blob/master/Lecture%20Notes/Chapter%201%20idntfundm.pdf)] [[Slide](https://github.com/NTU-CCA/EE6225/blob/master/Slides/Chapter%201%20identifunda.ppt)]|
 |Lecture - 02|Parameter Identification from Step Response|[[Note](https://github.com/NTU-CCA/EE6225/blob/master/Lecture%20Notes/Chapter%202%20identfstep.pdf)]|
 |Lecture - 03|Parameter Identification from Relay Test|[[Note](https://github.com/NTU-CCA/EE6225/blob/master/Lecture%20Notes/Chapter%203%20identifrelay.pdf)]|
 |Lecture - 04|Fundamentals of PID Control|[[Note](https://github.com/NTU-CCA/EE6225/blob/master/Lecture%20Notes/Chapter%204%20Fundamentals%20of%20PID%20Control%20.pdf)]|
