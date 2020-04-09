@@ -2,9 +2,7 @@
 |---|
 # EE6225 - Process Control, Fall 2019 </center>
 
-#### Lecturers: 
-- Prof. [Wenjian Cai](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWJCAI) 
-- Prof. [Xing Zhang](https://xinzhangee.wixsite.com/mysite)
+#### Lecturers: Prof. [Wenjian Cai](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWJCAI) and Prof. [Xing Zhang](https://xinzhangee.wixsite.com/mysite)
 
 |#|Content|Lecture Note
 |:---:|:---:|:---:|
