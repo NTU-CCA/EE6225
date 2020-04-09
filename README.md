@@ -2,9 +2,9 @@
 |---|
 # EE6225 - Process Control, Fall 2019 </center>
 
-<br>
-
-#### Lecturers: Prof. [Wenjian Cai](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWJCAI) and Prof. [Xing Zhang](https://xinzhangee.wixsite.com/mysite)
+#### Lecturers: 
+- Prof. [Wenjian Cai](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWJCAI) 
+- Prof. [Xing Zhang](https://xinzhangee.wixsite.com/mysite)
 
 |#|Content|Lecture Note
 |:---:|:---:|:---:|
@@ -23,3 +23,5 @@
 |Lecture - 13|Application of Model Predictive Control in Power Converters 2|[[Slide](https://github.com/NTU-CCA/EE6225/blob/master/Lecture%20Notes/EE6225_PartII_C6_15_11_2019.pdf)]|
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
+
+<br>
