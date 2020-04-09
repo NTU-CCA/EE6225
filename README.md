@@ -6,6 +6,10 @@
 
 <br>
 
+|#|Content|Lecture Note
+|:---:|:---:|:---:|
+|Lecture 01|Fundamentals of Process Modeling and Identification|[Lecture Note](https://github.com/NTU-CCA/EE6225/blob/master/Lecture%20Notes/Chapter%201%20idntfundm.pdf)]
+
 # Contents
 
 ### Week 1 - Fundamentals of Process Modeling and Identification
