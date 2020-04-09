@@ -2,9 +2,7 @@
 |---|
 # EE6225 - Process Control, Fall 2019 </center>
 
-Lecturers: Prof. Wenjian Cai and Prof. Xing Zhang
-
-<br>
+#### Lecturers: Prof. Wenjian Cai and Prof. Xing Zhang
 
 |#|Content|Lecture Note
 |:---:|:---:|:---:|
