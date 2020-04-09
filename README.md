@@ -4,6 +4,8 @@
 
 ### Lecturers: Prof. Wenjian Cai and Prof. Xing Zhang
 
+<br>
+
 # Contents
 
-### Week 1 Fundamentals of Process Modeling and Identification
+### Week 1 - Fundamentals of Process Modeling and Identification
