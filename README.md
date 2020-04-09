@@ -1,6 +1,6 @@
 |![image](https://github.com/NTU-CCA/EE6225/blob/master/logo.png)|
 |---|
-# EE6225 - Process Control, Fall 2019 </center>
+# EE6225 - Process Control, Fall 2019
 
 #### Lecturers: Prof. [Wenjian Cai](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWJCAI) and Prof. [Xing Zhang](https://xinzhangee.wixsite.com/mysite)
 
