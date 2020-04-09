@@ -2,4 +2,8 @@
 |---|
 # EE6225 Process Control, Fall 2019 </center>
 
-## Lecturers: Prof. Wenjian Cai and Prof. Xing Zhang
+### Lecturers: Prof. Wenjian Cai and Prof. Xing Zhang
+
+# Contents
+
+### Week 1 Fundamentals of Process Modeling and Identification
