@@ -1,5 +1,5 @@
-|![image](https://github.com/NTU-CCA/EE6225/blob/master/logo.png)|
-|---|
+*(NOTE: All the content was found on the Internet.)*
+
 # EE6225 - Process Control
 
 ### Learning Objective:
@@ -26,13 +26,5 @@ On completion of this course, students should be confident to handle tasks on mo
 - L. Wang, "Model Predictive Control System Design and Implementation Using MATLAB," <i>Springer</i>, 2009.
 - Rossiter, "Model-Based Predictive Control: A Practical Approach," <i>CRC Press</i>, 2003.
 - B. W. Bequette, "Process Control Modeling Design and Simulation," <i>Prentice Hall</i>, 2003.
-
-### Solutions of Past-Year Exam Papers:
-
-- [EE6225 AY 2018-2019](https://github.com/NTU-CCA/EE6225/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6225%202018-2019.pdf)
-- [EE6225 AY 2017-2018](https://github.com/NTU-CCA/EE6225/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6225%202017-2018.pdf)
-- [EE6225 AY 2016-2017](https://github.com/NTU-CCA/EE6225/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6225%202016-2017.pdf)
-- [EE6225 AY 2015-2016](https://github.com/NTU-CCA/EE6225/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6225%202015-2016.pdf)
-- [EE6225 AY 2013-2014](https://github.com/NTU-CCA/EE6225/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6225%202013-2014.pdf)
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
